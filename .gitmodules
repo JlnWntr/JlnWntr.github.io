@@ -1,0 +1,3 @@
+[submodule "sideshow"]
+	path = sideshow
+	url = https://github.com/JlnWntr/sideshow
